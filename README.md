@@ -4,7 +4,6 @@
 - 🔭 I’m currently working as a Programmer Jr at HDI Seguros.
 - 🌱 I’m currently learning and studying constantly
 - 💬 Ask me about anything
-- 📫 How to reach me: cneves.oliver@gmail.com
 - ⚡ A fact: I entered the programming area 6 months ago, and each day is a new challenge and knowledge.
 
 <div align="center">
