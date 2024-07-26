@@ -1,11 +1,5 @@
 ## Welcome you! I'm Cecilia Neves 👋
 
-
-- 🔭 I’m currently working as a Programmer Jr at HDI Seguros.
-- 🌱 I’m currently learning and studying constantly
-- 💬 Ask me about anything
-- ⚡ A fact: I entered the programming area 6 months ago, and each day is a new challenge and knowledge.
-
 <div align="center">
   <a href="https://github.com/cecilianeves22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecilianeves22&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
